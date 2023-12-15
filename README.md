@@ -7,6 +7,11 @@ Tableau Dashboard:
 
 PowerBI Dashboard:
 
+![Screenshot 2023-12-15 at 8 19 09 PM](https://github.com/mohitpandey28/Bank-Analytics/assets/149960816/d0e48512-1ee2-431a-a397-86257fef48ca)
+![Screenshot 2023-12-15 at 8 19 27 PM](https://github.com/mohitpandey28/Bank-Analytics/assets/149960816/68448588-2a65-4866-a0e3-b32308917b78)
+
+Excel Dashboard:
+
 
 
 Key Features:
