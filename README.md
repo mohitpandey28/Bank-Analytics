@@ -12,8 +12,7 @@ PowerBI Dashboard:
 
 Excel Dashboard:
 
-
-
+![Screenshot 2023-12-15 at 7 56 08 PM](https://github.com/mohitpandey28/Bank-Analytics/assets/149960816/0373466d-8f5b-4da7-b784-5f6a5154d85e)
 
 
 Key Features:
