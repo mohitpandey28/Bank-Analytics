@@ -1,11 +1,13 @@
 This project is a robust bank analytics solution that leverages Power BI, Tableau, and Excel for visualizing critical customer data and loan performance. Integrating seamlessly with SQL databases ensures accurate, real-time insights for informed decision-making.
 
-PowerBI Dashboard:
+Tableau Dashboard:
 
 ![Screenshot 2023-12-15 at 7 56 48 PM](https://github.com/mohitpandey28/Bank-Analytics/assets/149960816/38fa4308-bcd4-474b-b8f7-08f2015c9558)
 ![Screenshot 2023-12-15 at 7 56 59 PM](https://github.com/mohitpandey28/Bank-Analytics/assets/149960816/c6d74b7c-92fc-404d-993b-4a6fc3e9aa35)
 
-Tableau Dashboard:
+PowerBI Dashboard:
+
+
 
 Key Features:
 
